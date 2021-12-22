@@ -1,7 +1,14 @@
-# run-buddy
+# Run Buddy
 
-Practice:
-1. Something
-1. 
-- Number One
-- Number Two
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [your name]
